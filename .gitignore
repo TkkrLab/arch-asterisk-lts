@@ -1,0 +1,11 @@
+!./.SRCINFO
+!./.gitignore
+!./PKGBUILD
+!./asterisk.install
+!./asterisk.logrotated
+!./asterisk.sysusers
+!./asterisk.tmpfile
+src
+pkg
+*.tar.gz
+*.tar.zst
